@@ -95,6 +95,9 @@
   .card-overlay {
     background: rgba(0, 0, 0, 0.5);
   }
+ .card-overlay-1 {
+    background: rgba(0, 0, 0, 0.5);
+  }
   .general {
     display: inline-block;
     width: 30%;
